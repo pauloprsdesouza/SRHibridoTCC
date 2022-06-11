@@ -2,6 +2,7 @@ package database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DBConnection extends Object {
@@ -53,8 +54,8 @@ public class DBConnection extends Object {
 			//Class.forName(IDatabaseConstants.DB_DRIVER);
 			//String more = "?verifyServerCertificate=false&useSSL=false&requireSSL=false&autoReconnect=true&failOverReadOnly=false&maxReconnects=0";
 			//String more = "?verifyServerCertificate=false&useSSL=false&requireSSL=false&autoReconnect=true&failOverReadOnly=false";
-			//String more = "?verifyServerCertificate=false&useSSL=false&requireSSL=false";
-			String more = "?useTimezone=true&serverTimezone=UTC&useSSL=false&requireSSL=false&verifyServerCertificate=false";
+			String more = "?verifyServerCertificate=false&useSSL=false&requireSSL=false";
+			//String more = "?useTimezone=true&serverTimezone=UTC&useSSL=false&requireSSL=false&verifyServerCertificate=false";
 			//String more = "";
 			
 			String url = "jdbc:mysql://".concat(IDatabaseConstants.DB_IP_ADDRESS).concat("/").concat(IDatabaseConstants.DB_SCHEMA) + more;
@@ -65,6 +66,12 @@ public class DBConnection extends Object {
 			
 		} catch (Exception e) {
 			e.printStackTrace();
+			try {
+				con.close();
+			} catch (SQLException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
 		}
 		return con;
 	}

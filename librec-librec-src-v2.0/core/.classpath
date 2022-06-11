@@ -20,6 +20,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -30,8 +31,22 @@
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/lodweb1"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/librec"/>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/jawjaw-1.0.2.jar"/>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/org.apache.xerces-2.9.0.jar"/>
-	<classpathentry kind="lib" path="E:/Ramon - UFBA/IC - UFBA/ws4j-1.0.1.jar"/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

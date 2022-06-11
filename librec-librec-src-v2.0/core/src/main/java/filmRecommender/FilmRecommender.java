@@ -22,7 +22,7 @@ public class FilmRecommender {
 	public static void main(String[] args) throws Exception {
 
 		// build data model
-		String dataDir = "C:/Users/Ramon/neon/workspace/librec-librec-src-v2.0/data";
+		String dataDir = "D:/Projects/SRHibridoTCC/librec-librec-src-v2.0/data";
 		Configuration conf = new Configuration();
 		conf.set("dfs.data.dir", dataDir);
 		TextDataModel dataModel = new TextDataModel(conf);

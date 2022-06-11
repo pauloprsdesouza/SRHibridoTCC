@@ -22,7 +22,7 @@ public class FilmRecommenderCosine {
 	public static void main(String[] args) throws Exception {
 
 		// build data model
-		String dataDir = "C:/Users/Ramon/eclipse-workspace/librec-librec-src-v2.0/data";
+		String dataDir = "D:/Projects/SRHibridoTCC/librec-librec-src-v2.0/data";
 		Configuration conf = new Configuration();
 		conf.set("dfs.data.dir", dataDir);
 		TextDataModel dataModel = new TextDataModel(conf);
@@ -30,22 +30,26 @@ public class FilmRecommenderCosine {
 		// build recommender context
 		RecommenderContext recommenderContext = new RecommenderContext(conf, dataModel);
 
+		System.out.println("1 Passou");
 		conf.set("rec.recommender.similarities", "item");
 		conf.set("rec.similarity.class", "cos");
 		RecommenderSimilarity similarity = new CosineSimilarity();
 		similarity.buildSimilarityMatrix(dataModel);
 		recommenderContext.setSimilarity(similarity);// seta a similaridade somente
-
+		
+		System.out.println("2 Passou");
 		Recommender recommender = new ItemKNNRecommenderLDSD();
 		recommender.setContext(recommenderContext);
 		recommender.recommend(recommenderContext); 
 
 		List<RecommendedItem> recommendedItemList = recommender.getRecommendedList();
 
+		System.out.println("3 Passou");
 		// set USER id list of filter
 		List<String> userIdList = new ArrayList<>();
 		userIdList.add("757");
 
+		System.out.println("4 Passou");
 		GenericRecommendedFilter genericFilter = new GenericRecommendedFilter();
 		genericFilter.setUserIdList(userIdList);
 		recommendedItemList = genericFilter.filter(recommendedItemList);

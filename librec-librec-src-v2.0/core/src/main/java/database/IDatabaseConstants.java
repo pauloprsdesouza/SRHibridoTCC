@@ -51,7 +51,7 @@ public abstract class IDatabaseConstants {
 	/**
 	 * 
 	 */
-	public static String DB_PASSWORD = "kyugin";
+	public static String DB_PASSWORD = "root";
 	//public String DB_PASSWORD = "BHU*nji9";
 	//public static String DB_PASSWORD = "durao";
 
@@ -59,7 +59,7 @@ public abstract class IDatabaseConstants {
 	/**
 	 * Leave empty if mysql is set as a variable in your environment path 
 	 */
-	public static String PATH_TO_MYSQL_EXECUTABLES = "C://Program Files//MySQL//MySQL Server 5.7//bin//";
+	public static String PATH_TO_MYSQL_EXECUTABLES = "C://Program Files//MySQL//MySQL Server 8.0//bin//";
     
 
 }

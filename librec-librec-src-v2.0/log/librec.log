@@ -8183,3 +8183,238 @@ Data size of testing is 5811
 Job Setup completed.
 Job Train completed.
 Job End.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22625
+Data size of testing is 5732
+Job Setup completed.
+Job Train completed.
+Job End.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22498
+Data size of testing is 5859
+Job Setup completed.
+Job Train completed.
+Job End.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22772
+Data size of testing is 5585
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22486
+Data size of testing is 5871
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22772
+Data size of testing is 5585
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22669
+Data size of testing is 5688
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22777
+Data size of testing is 5580
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22728
+Data size of testing is 5629
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22658
+Data size of testing is 5699
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22769
+Data size of testing is 5588
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22690
+Data size of testing is 5667
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22684
+Data size of testing is 5673
+Job Setup completed.
+Job Train completed.
+Job End.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22593
+Data size of testing is 5764
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22666
+Data size of testing is 5691
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22655
+Data size of testing is 5702
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22686
+Data size of testing is 5671
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22578
+Data size of testing is 5779
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22623
+Data size of testing is 5734
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22694
+Data size of testing is 5663
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22666
+Data size of testing is 5691
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22660
+Data size of testing is 5697
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22612
+Data size of testing is 5745
+Job Setup completed.
+Job Train completed.
+Dataset: ...brec-src-v2.0/data/filmtrust/rating
+All dataset files [D:\Projects\SRHibridoTCC\librec-librec-src-v2.0\data\filmtrust\rating\ratings_0.txt]
+All dataset files size 2079173
+Now loading dataset file ratings_0
+Transform data to Convertor successfully!
+Split data to train Set and test Set successfully!
+Data size of training is 22755
+Data size of testing is 5602
+Job Setup completed.
+Job Train completed.
